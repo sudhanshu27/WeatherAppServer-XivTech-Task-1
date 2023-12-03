@@ -1,2 +1,13 @@
-# WeatherAppServer-XivTech-Task-1
-This project is an Express.js server that fetches real-time weather data for multiple cities using the OpenWeatherMap API.
+# WeatherAppServer-XivTech-Task-1  
+This project is an Express.js server that fetches real-time weather data for multiple cities using the OpenWeatherMap API.  
+  
+***XivTech - Backend Assessment 1***  
+  
+Create an express based node.js server with below requirements.  
+1.The API should accept names of multiple cities as input and fetch real time weather from any weather API's and respond with real time weather results.  
+2.Create a POST endpoint /getWeather which accepts the name of the cities as POST body params  
+
+***Features***  
+  
+Accepts city names as input and fetches real-time weather data.  
+Handles invalid city names gracefully.  
